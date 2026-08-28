@@ -165,7 +165,7 @@
 
 ## 🔗 Contact & Links
 
-🐙 **GitHub:** `github.com/Deth-Code`
+🐙 **GitHub:** `github.com/PouyaOsatiDev`
 🌐 **Portfolio:** Coming soon
 💼 **LinkedIn:** Coming soon
 
